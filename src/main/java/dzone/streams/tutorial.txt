@@ -1,0 +1,18 @@
+->java 8 streams should not be confused with java i/o streams
+->streams are wrappers around data sources, allowing us to operate with that data source and
+making bulk processing convenient for us.
+
+TryStreams1 - creating streams using different methods
+TryStreams2 - sample operations
+forEach
+map and collect
+stream and collect
+filter and collect
+toArray
+flatMap
+peek
+
+
+a stream pipeline usually consists of a source of stream, zero or more intermediate operations and
+a terminal operation
+
