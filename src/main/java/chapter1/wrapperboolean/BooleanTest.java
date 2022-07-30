@@ -6,7 +6,6 @@ public class BooleanTest {
         Boolean flag = false;
         Boolean status2 = true;
 
-
         System.out.println(status);
         System.out.println(status.booleanValue());
         System.out.println(status.toString());
@@ -15,7 +14,6 @@ public class BooleanTest {
 
         System.out.println(status.hashCode());
         System.out.println(status2.hashCode());
-
 
     }
 }
